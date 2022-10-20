@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I’m currently a web developer at Chitkara University.
+Know the following TechStacks =>
+  * React
+  * JavaScript
+  * NodeJs
+  * Firebase
+  
+Currently working on small backend project for my learning.
+Link :- https://github.com/w-udhav/att_organizer_frontend
+
+#### As a hobby-> I do sketching. Will add it soon.
