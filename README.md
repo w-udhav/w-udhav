@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I’m currently a web developer at Chitkara University.
-Know the following TechStacks =>
-  * React
+## I’m a web developer
+    💪🏻 Looking forward to work on challenging projects
+    📚  Made many projects and working on making many more.
+    ❤️ I am currently an intern at Bookvala.
+    
+Some of my buddies helping me =>
+  * ReactJS
   * JavaScript
   * NodeJs
-  * Firebase
+  * MongoDB
   
-Currently working on small backend project for my learning.
-Link :- https://github.com/w-udhav/att_organizer_frontend
-
-#### As a hobby-> I do sketching. Will add it soon.
+### Not only limited to work but...
+  * 🎨 Art is what creates me.
+  * 🎮 Competetive Gaming - part time Valorant player. (AngerAstra#007)
+  * 📽️ Create AMVs (Anime Music Videos) for fun. (https://www.youtube.com/channel/UC3VXG1VFD4mZo3GecovK2UA)
