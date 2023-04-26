@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I’m a web developer
     💪🏻 Looking forward to work on challenging projects
     📚  Made many projects and working on making many more.
-    ❤️ I am currently an intern at Bookvala.
+    ❤️ I am currently working with IndusianAssist Pvt Ltd.
     
 Some of my buddies helping me =>
   * ReactJS
