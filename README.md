@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I’m a web developer
     💪🏻 Looking forward to work on challenging projects
-    📚  Made many projects and working on making many more.
-    ❤️ I am currently working with IndusianAssist Pvt Ltd.
+    📚 Made many projects and working on making many more.
+    ❤️ Looking forward to revolutionize the world.
     
 Some of my buddies helping me =>
   * ReactJS
