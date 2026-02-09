@@ -1,6 +1,6 @@
 ## Hey, I'm Udhav 👋
 
-I'm a developer who enjoys solving problems with structure and simplicity. Currently working as an Associate Solution Engineer at FarEye, I specialize in building full-stack applications that focus on functionality, design, and maintainability.
+I'm a developer who enjoys solving problems with structure and simplicity. Currently working as Software Engineer at WENDOR. I specialize in building full-stack applications that focus on functionality, design, and maintainability.
 
 ### 🛠 What I work with
 - **Frontend:** React, Vite, Tailwind CSS, Next.js  
