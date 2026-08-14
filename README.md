@@ -1,43 +1,34 @@
-## Hey, I'm Udhav 👋
+## Udhav Wadhawan
 
-I'm a developer who enjoys solving problems with structure and simplicity. Currently working as Software Engineer at WENDOR. I specialize in building full-stack applications that focus on functionality, design, and maintainability.
+Full-stack developer. I build web apps end-to-end — React/Next on the front, Node/Express (and Nest when it fits) on the back, Postgres or Mongo underneath.
 
-### 🛠 What I work with
-- **Frontend:** React, Vite, Tailwind CSS, Next.js  
-- **Backend:** Node.js, NestJS, TypeScript, Express  
-- **Databases:** PostgreSQL, MongoDB, Sequelize, Mongoose  
-- **Dev Practices:** REST APIs, Repository Pattern, Service Layer Architecture
+Currently a Software Engineer at [Wendor](https://wendor.in). Before / alongside that: freelance and client work (tutoring CRM, e-commerce, marketing sites).
 
-I'm drawn to design patterns and love thinking deeply about how things should work before writing code.
+### Stack
 
----
+- **Frontend:** React, Next.js, TypeScript, Tailwind, Vite
+- **Backend:** Node.js, Express, NestJS, REST APIs
+- **Data:** PostgreSQL, MongoDB, Sequelize, Prisma, Sanity (headless CMS)
+- **Also:** Expo / React Native when the product needs a mobile surface
 
-### 🔭 Projects and Ideas
-- Building minimal and scalable UIs with attention to UX.
-- Experimenting with backend patterns to create robust, testable APIs.
-- Exploring real-time systems and automation ideas using LLMs and embedded hardware.
+### Selected work
 
----
+I keep most experiments private. These are the ones worth opening:
 
-### 🎯 Currently Exploring
-- Hardware-software interfaces (e.g., Raspberry Pi with LLMs for home automation).
-- AI agents for codebases and developer workflows.
-- Structuring complex projects for better maintainability.
+| Project | What it is | Links |
+| --- | --- | --- |
+| **Wendor fullstack** | Kiosk shop + admin inventory + Express/Postgres API (orders, stock, auth) | [repo](https://github.com/w-udhav/wendor-fullstack) · [shop](https://wendor-fullstack-client.vercel.app) |
+| **CRM Education** | Staff CRM for a tutoring business — enrollments, approvals, student records | [live](https://crm-education.vercel.app) |
+| **Design 360** | Architecture studio site powered by Sanity CMS + custom Studio inputs | [live](https://design-360-ebon.vercel.app) |
+| **Personal site** | Identity / writing home | [udhv.space](https://udhv.space) · [udv-home](https://udv-home.vercel.app) |
 
----
+If a repo looks unfinished or abandoned, it probably is — ignore it.
 
-### 🎨 Outside the Code
-- I sketch, listen to music, and go on walks to clear my mind.
-- Create Anime Music Videos (AMVs) on YouTube for fun: [@AngerAstra](https://www.youtube.com/channel/UC3VXG1VFD4mZo3GecovK2UA)
-- Competitive gamer at times (Valorant ID: `AngerAstra#007`)
+### Contact
 
----
+- Site: [udhv.space](https://udhv.space)
+- Email: udhavwadhawan@hotmail.com
+- X: [@angerastra](https://x.com/angerastra)
+- YouTube (AMVs, for fun): [@AngerAstra](https://www.youtube.com/channel/UC3VXG1VFD4mZo3GecovK2UA)
 
-### 🧭 Guiding Thought
-> “Design is how it works.”  
-Whether it’s software or art, I believe everything meaningful is a result of thoughtful design.
-
----
-
-📫 **Let’s connect**  
-If you're working on something interesting or just want to talk about ideas — feel free to reach out!
+> “Design is how it works.”
