@@ -1,119 +1,118 @@
 <p align="center">
-  <img src="./assets/systems-builder.svg" alt="Udhav Wadhawan — systems builder" width="100%" />
-</p>
-
-<h1 align="center">Udhav Wadhawan</h1>
-
-<p align="center">
-  <strong>I turn “what if?” into systems that can handle “what now?”</strong>
-</p>
-
-<p align="center">
-  Product-minded full-stack engineer · builder across the whole request path
-</p>
-
-<p align="center">
-  <a href="https://udhv.space">Home</a>
-  ·
-  <a href="mailto:udhavwadhawan@hotmail.com">Email</a>
-  ·
+  <strong>Udhav Wadhawan</strong><br />
+  <a href="https://udhv.space">Home</a> ·
+  <a href="mailto:udhavwadhawan@hotmail.com">Email</a> ·
   <a href="https://x.com/angerastra">X</a>
 </p>
 
----
+<br />
 
-### I followed a request
+<h1 align="center">It starts with a click.</h1>
 
-I did not set out to collect frameworks. I followed a request.
+<p align="center">
+  A small expectation:<br />
+  something should happen.
+</p>
 
-It started at the surface: a person clicks, types, waits. That small moment opened
-into a longer trail—through state and APIs, permissions and queues, databases and
-deploys. Every layer answered one question and revealed the next.
+<br />
 
-```text
-curiosity → interface → logic → data → systems → reliability → curiosity
-```
+<h3 align="center">Behind that moment, an entire system wakes up.</h3>
 
-That loop is still how I build.
+<p align="center">
+  <img src="./assets/icons/touch-app.svg" width="22" alt="Interaction" />
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="./assets/icons/developer-board.svg" width="22" alt="Logic" />
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="./assets/icons/database.svg" width="22" alt="Data" />
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="./assets/icons/sync.svg" width="22" alt="Reliable flow" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Make it feel obvious</h3>
-      A product begins as a conversation with its user. I care about the quiet
-      details: useful defaults, clear states, and interfaces that explain
-      themselves.
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Follow it past the screen</h3>
-      A polished surface is only the entrance. I follow the request into the API,
-      through its rules, and down to the data until the whole path makes sense.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Let the pieces talk</h3>
-      As products grow, one path becomes many. Services, events, jobs, caches, and
-      clients need a shared language—not just more code.
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Make “boring” the superpower</h3>
-      The best systems make failure unsurprising. I look for the slow query, the
-      unsafe boundary, and the missing fallback before they become the story.
-    </td>
-  </tr>
-</table>
+<br />
 
-### The way I work
+<p align="center">
+  The interface asks a question.<br />
+  The API decides what is allowed.<br />
+  The database remembers.<br />
+  The queue keeps everything moving.
+</p>
 
-```text
-Listen for friction
-    └── trace the entire path
-          └── design the smallest coherent system
-                └── ship, observe, simplify
-                      └── leave a clearer path for the next builder
-```
+<p align="center">
+  Every piece matters.<br />
+  But the product lives in the way they connect.
+</p>
 
-I am most at home where product thinking and engineering depth overlap: close
-enough to the interface to understand the human problem, and deep enough in the
-system to solve the real one.
+<br />
 
-### A few artifacts from the trail
+<h2 align="center">I build those connections.</h2>
 
-- **[Wendor Fullstack](https://github.com/w-udhav/wendor-fullstack)** — a shop,
-  an operations surface, and the machinery connecting them.
-- **[CRM Education](https://crm-education.vercel.app)** — everyday workflows
-  turned into a focused operating tool.
-- **[Design 360](https://design-360-ebon.vercel.app)** — a visual identity paired
-  with a content system built to evolve.
-- **[udhv.space](https://udhv.space)** — the corner of the internet where the
-  experiments become personal.
+<p align="center">
+  I'm Udhav—a full-stack engineer who follows an idea<br />
+  all the way into a dependable product.
+</p>
+
+<p align="center">
+  Not just the screen.<br />
+  Not just the server.<br />
+  <strong>The whole path.</strong>
+</p>
+
+<br />
+
+<h2 align="center">Good software should feel simple.</h2>
+
+<p align="center">
+  The complexity can stay behind the product.<br />
+  What reaches the person should feel clear, fast, and trustworthy.
+</p>
+
+<p align="center">
+  So I start with the friction.<br />
+  Trace it to the real constraint.<br />
+  Build the smallest coherent system.<br />
+  Then simplify it again.
+</p>
+
+<br />
+
+## Some ideas became places you can visit.
+
+- **[Wendor Fullstack](https://github.com/w-udhav/wendor-fullstack)** — A storefront, an operations surface, and the machinery that keeps them in agreement.
+- **[CRM Education](https://crm-education.vercel.app)** — A scattered daily process, brought into one shared flow.
+- **[Design 360](https://design-360-ebon.vercel.app)** — An architecture studio's work, given a digital space and room to keep evolving.
+- **[udhv.space](https://udhv.space)** — Where the experiments become personal.
 
 <details>
-  <summary><strong>The tools change. The shape of the work does not.</strong></summary>
+  <summary><strong>Tools are choices, not the identity.</strong></summary>
   <br />
   React / Next.js / TypeScript · Node.js / Express / NestJS · PostgreSQL / MongoDB
   · Prisma / Sequelize · Redis / queues / real-time events · Sanity / Strapi ·
   React Native / Expo
 </details>
 
-### The work, over time
+<br />
+
+<h2 align="center">Built one decision at a time.</h2>
+
+<p align="center">
+  No launch montage. Just the work, compounding.
+</p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Udhav's GitHub contribution history in 3D" width="100%" />
 </p>
 
 <p align="center">
-  <sub>This landscape is regenerated daily. If it is empty, the first build is still finding its way.</sub>
+  <sub>Regenerated daily from the work along the way.</sub>
 </p>
 
----
+<br />
+
+<h2 align="center">Have a problem that refuses to stay in one layer?</h2>
 
 <p align="center">
-  <strong>Bring me the problem that crosses boundaries.</strong><br />
-  <a href="mailto:udhavwadhawan@hotmail.com">udhavwadhawan@hotmail.com</a>
-  ·
-  <a href="https://udhv.space">udhv.space</a>
-  ·
+  <strong>Let's build through it.</strong><br /><br />
+  <a href="mailto:udhavwadhawan@hotmail.com">udhavwadhawan@hotmail.com</a> ·
+  <a href="https://udhv.space">udhv.space</a> ·
   <a href="https://www.youtube.com/channel/UC3VXG1VFD4mZo3GecovK2UA">after-hours edits</a>
 </p>
